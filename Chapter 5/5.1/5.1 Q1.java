@@ -1,9 +1,0 @@
-/*
-Explain the difference between a method definition and a method invocation.
-
-The method definition is what the method will do. 
-The method definition is a code that tells the compiler what to output. 
-The method definition can be complex and have multiple lines of code. 
-The method invocation occurs when we use the method from the main method.
-
-*/
